@@ -1,7 +1,7 @@
-POST http://localhost/api/tutorials HTTP/1.1
+POST http://localhost/api/blog HTTP/1.1
 content-type: application/json
 
 {
-    "title": "",
-    "description": "test 4"
+    "author": "test 5",
+    "content": "test 5"
 }
